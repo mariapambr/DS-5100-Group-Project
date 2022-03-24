@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 DS 5100 Group Project
-Authors: Brian Wickens, Mariapaola Ambrosona, Theophilus Braimoh, Robert Andrews, DeAyrra Greene
+Authors: Brian Wickens, Mariapaola Ambrosona, Theophilus Braimoh, 
+Robert Andrews, DeAyrra Greene
 """
 
 import numpy as np

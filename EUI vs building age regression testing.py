@@ -14,3 +14,5 @@ If we can identify timelines for new-build standards in city or building code
 can run t-test for buildings pre/post design requirement changes.
 """
 
+#Import Cleaned Data
+exec(open("import data.py").read())

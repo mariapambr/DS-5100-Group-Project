@@ -13,3 +13,5 @@ should be constant for all sites in the city.
 Does energy star use location based factors?
 """
 
+#Import Cleaned Data
+exec(open("import data.py").read())

@@ -14,3 +14,5 @@ Comment on City of Seattle building electrification initiative in report
 T-test of 2016 vs 2019 building electrification.
 """
 
+#Import Cleaned Data
+exec(open("import data.py").read())

@@ -13,3 +13,5 @@ Notes:
 -Increase in EUI at heathcare/hospital buildings?
 """
 
+#Import Cleaned Data
+exec(open("import data.py").read())
